@@ -1,0 +1,28 @@
+{
+  "name": "redis-caching",
+  "version": "1.0.0",
+  "description": "Understanding caching with redis and node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andydnguyen/redis-caching.git"
+  },
+  "author": "Andy Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andydnguyen/redis-caching/issues"
+  },
+  "homepage": "https://github.com/andydnguyen/redis-caching#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0",
+    "redis": "^2.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.0"
+  }
+}
