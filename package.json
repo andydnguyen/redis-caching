@@ -19,7 +19,7 @@
   "homepage": "https://github.com/andydnguyen/redis-caching#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "redis": "^2.8.0"
   },
   "devDependencies": {
